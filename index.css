@@ -1,7 +1,7 @@
 i {
   color: rgb(196, 114, 38);
 }
-p {
+.txtgray {
   padding: 8px;
   color: rgb(104, 104, 104);
   font-size: 20px;
@@ -34,7 +34,7 @@ h4 {
   text-align: center;
 }
 .experienceText {
-  font-size: 1,5em;
+  font-size: 1, 5em;
   font-family: sans-serif;
   position: center;
   color: white;
@@ -75,12 +75,16 @@ h4 {
   margin-left: 100px;
   background-color: white;
 }
-.strongtxt {
-  color: white;
-}
 ul {
   list-style: none;
 }
 footer {
   background-color: rgb(58, 57, 54);
+}
+
+strong {
+  text-align: center;
+}
+.txtabout {
+  text-align: center;
 }
