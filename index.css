@@ -93,6 +93,6 @@ strong {
   color: gray;
 }
 .projects:hover {
-  text-decoration: none;
   color: white;
+  text-decoration: none;
 }
